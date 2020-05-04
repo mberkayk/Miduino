@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Miduino
-Exec=python3 /home/muho/Programs/Miduino/Miduino.py
-Icon=/home/muho/Programs/Miduino/midi_keyboard.png
