@@ -2,15 +2,15 @@
 Simple python and arduino code for a serial-to-MIDI musical keyboard
 
 ## Pc Program
-![](images/program.jpg)
+<img src="images/program.png" height="800">
 
 ## Physical Build
 
 ### Mdf board, popsicle sticks, wooden clothespins
-![](images/mdf.jpg)
+<img src="images/mdf.jpg" height="800">
 
 ### Painting and constructing the individual keys
-![](images/paint.jpg)
+<img src="images/paint.jpg" height="800">
 
 ### All the keys and the arduino wired up on the mdf board
-![](images/final.jpg)
+<img src="images/final.jpg" height="800">
