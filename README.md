@@ -1,5 +1,5 @@
 # Miduino
-Simple python and arduino code for a serial-to-MIDI musical keyboard
+MIDI Keyboad using Arduino and Python
 
 ### Pc Program
 <img src="images/program.png">
