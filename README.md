@@ -7,10 +7,10 @@ MIDI Keyboad using Arduino and Python
 ### Physical Build
 
 ##### Mdf board, popsicle sticks, wooden clothespins
-<img src="images/mdf.jpg" height="800">
+<img src="images/mdf.jpg">
 
 ##### Painting and constructing the individual keys
 <img src="images/paint.jpg" height="800">
 
 ##### All the keys and the arduino wired up on the mdf board
-<img src="images/final.jpg" height="800">
+<img src="images/final.jpg">
