@@ -10,7 +10,7 @@ MIDI Keyboad using Arduino and Python
 <img src="images/mdf.jpg">
 
 ##### Painting and constructing the individual keys
-<img src="images/paint.jpg" height="800">
+<img src="images/paint.jpg">
 
 ##### All the keys and the arduino wired up on the mdf board
 <img src="images/final.jpg">
